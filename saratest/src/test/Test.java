@@ -11,4 +11,9 @@ public class Test {
         return a + b;
     }
 
+    public void bizzare() {
+
+        System.out.println( "Tu es bizzare hein " );
+    }
+
 }
